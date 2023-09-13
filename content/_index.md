@@ -1,0 +1,1 @@
+Las Islas Baleares son una comunidad autónoma uniprovincial española, compuesta por las islas del archipiélago balear. Se encuentran situadas en el mar Mediterráneo, frente a la costa oriental de la península ibérica. Su capital es Palma. (Wikipedia)
