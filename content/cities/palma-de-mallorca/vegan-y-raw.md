@@ -1,5 +1,5 @@
 ---
 title: "Vegan & Raw"
-url: /palma-de-mallorca/vegan-und-raw/
+url: /palma-de-mallorca/vegan-y-raw/
 shop: supermercado
 ---

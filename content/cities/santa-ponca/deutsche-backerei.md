@@ -1,5 +1,5 @@
 ---
 title: "Deutsche Bäckerei"
-url: /santa-ponca/deutsche-baeckerei/
+url: /santa-ponca/deutsche-backerei/
 shop: panadería
 ---

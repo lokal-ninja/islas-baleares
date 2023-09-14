@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /santa-ponca/spar/
+url: /santa-ponca/spar-2/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maruja"
-url: /alaior/maruja/
+url: /alaior/maruja-es-ramal/
 shop: panadería
 ---

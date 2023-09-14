@@ -1,5 +1,5 @@
 ---
 title: "Cristóbal"
-url: /cala-ratjada/cristobal/
+url: /cala-ratjada/cristobal-carrer-de-lagulla/
 shop: alquiler
 ---

@@ -1,5 +1,5 @@
 ---
 title: "B&M Estudio"
-url: /palma/bundm-estudio/
+url: /palma/bym-estudio/
 shop: decoración interior
 ---

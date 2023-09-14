@@ -1,5 +1,5 @@
 ---
 title: "Männersache - Moda Hombre"
-url: /santanyi-mallorca/maennersache-moda-hombre/
+url: /santanyi-mallorca/mannersache-moda-hombre/
 shop: ropa
 ---

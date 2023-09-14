@@ -1,5 +1,5 @@
 ---
 title: "B&M Mobiliario"
-url: /palma/bundm-mobiliario/
+url: /palma/bym-mobiliario/
 shop: muebles
 ---
