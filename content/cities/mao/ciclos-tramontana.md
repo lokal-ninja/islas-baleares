@@ -1,5 +1,5 @@
 ---
-title: "CICLOS TRAMONTANA"
+title: "Ciclos Tramontana"
 url: /mao/ciclos-tramontana/
 shop: bicicleta
 ---
