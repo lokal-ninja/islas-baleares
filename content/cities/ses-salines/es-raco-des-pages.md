@@ -1,5 +1,5 @@
 ---
-title: "es Racó d'es pagès"
+title: "Es Racó d'es Pagès"
 url: /ses-salines/es-raco-des-pages/
 shop: comodidad
 ---
