@@ -1,6 +1,6 @@
 ---
 title: Llucmajor
 url: /llucmajor/
-latitude: 39.485
-longitude: 2.892
+latitude: 39.486
+longitude: 2.888
 ---

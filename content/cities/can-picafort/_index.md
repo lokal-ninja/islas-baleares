@@ -1,6 +1,6 @@
 ---
 title: Can Picafort
 url: /can-picafort/
-latitude: 39.764
-longitude: 3.163
+latitude: 39.767
+longitude: 3.154
 ---
