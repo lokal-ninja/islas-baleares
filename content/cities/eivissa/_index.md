@@ -1,6 +1,6 @@
 ---
 title: Eivissa
 url: /eivissa/
-latitude: 38.908
-longitude: 1.431
+latitude: 38.909
+longitude: 1.432
 ---

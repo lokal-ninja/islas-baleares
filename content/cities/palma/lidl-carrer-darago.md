@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /palma/lidl-avinguda-de-mexic/
+url: /palma/lidl-carrer-darago/
 shop: comodidad
 ---
