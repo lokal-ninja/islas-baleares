@@ -1,5 +1,5 @@
 ---
 title: "Siam Thaimassage"
 url: /palma-de-mallorca/siam-thaimassage/
-shop: masaje
+shop: Massage
 ---

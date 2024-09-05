@@ -1,5 +1,5 @@
 ---
 title: "Widit"
 url: /eivissa/widit/
-shop: comodidad
+shop: Lebensmittel
 ---

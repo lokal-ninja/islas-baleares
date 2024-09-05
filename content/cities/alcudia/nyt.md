@@ -1,5 +1,5 @@
 ---
 title: "NyT"
 url: /alcudia/nyt/
-shop: ropa
+shop: Kleidung
 ---

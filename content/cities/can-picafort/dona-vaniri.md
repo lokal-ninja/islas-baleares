@@ -1,5 +1,5 @@
 ---
 title: "Dona Vaniri"
 url: /can-picafort/dona-vaniri/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ABC Moda"
 url: /santa-ponca/abc-moda/
-shop: regalo
+shop: Andenken
 ---

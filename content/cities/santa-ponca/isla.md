@@ -1,5 +1,5 @@
 ---
 title: "Isla"
 url: /santa-ponca/isla/
-shop: supermercado
+shop: Supermarkt
 ---

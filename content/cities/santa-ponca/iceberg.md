@@ -1,5 +1,5 @@
 ---
 title: "Iceberg"
 url: /santa-ponca/iceberg/
-shop: helado
+shop: Eisprodukte
 ---

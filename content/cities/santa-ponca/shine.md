@@ -1,5 +1,5 @@
 ---
 title: "Shine"
 url: /santa-ponca/shine/
-shop: peluquería
+shop: Friseur
 ---

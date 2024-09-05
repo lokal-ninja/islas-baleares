@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /palma/lidl/
-shop: comodidad
+shop: Lebensmittel
 ---

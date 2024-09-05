@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
 url: /palma/rossmann/
-shop: farmacia
+shop: Drogerie
 ---

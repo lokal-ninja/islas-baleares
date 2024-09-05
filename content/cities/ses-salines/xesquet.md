@@ -1,5 +1,5 @@
 ---
 title: "Xesquet"
 url: /ses-salines/xesquet/
-shop: panadería
+shop: Bäckerei
 ---

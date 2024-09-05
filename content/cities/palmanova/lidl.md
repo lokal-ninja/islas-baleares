@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /palmanova/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

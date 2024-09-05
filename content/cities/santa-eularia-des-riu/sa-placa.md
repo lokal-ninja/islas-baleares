@@ -1,5 +1,5 @@
 ---
 title: "Sa Plaça"
 url: /santa-eularia-des-riu/sa-placa/
-shop: frutería
+shop: Gemüse & Obst
 ---

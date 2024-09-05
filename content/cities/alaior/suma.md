@@ -1,5 +1,5 @@
 ---
 title: "Suma"
 url: /alaior/suma/
-shop: supermercado
+shop: Supermarkt
 ---

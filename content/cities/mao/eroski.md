@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /mao/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

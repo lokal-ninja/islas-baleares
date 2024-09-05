@@ -1,5 +1,5 @@
 ---
 title: "Ibiza Smiles Shoes"
 url: /sant-antoni-de-portmany/ibiza-smiles-shoes/
-shop: zapatos
+shop: Schuhe
 ---

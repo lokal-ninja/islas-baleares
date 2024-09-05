@@ -1,5 +1,5 @@
 ---
 title: "Mestral"
 url: /mao/mestral/
-shop: caridad
+shop: Gebrauchtwaren
 ---

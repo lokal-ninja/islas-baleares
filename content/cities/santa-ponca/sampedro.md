@@ -1,5 +1,5 @@
 ---
 title: "Sampedro"
 url: /santa-ponca/sampedro/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Detalls"
 url: /alaior/detalls/
-shop: libros
+shop: Bücher
 ---

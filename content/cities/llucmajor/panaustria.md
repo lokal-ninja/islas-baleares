@@ -1,5 +1,5 @@
 ---
 title: "panAustria"
 url: /llucmajor/panaustria/
-shop: panadería
+shop: Bäckerei
 ---

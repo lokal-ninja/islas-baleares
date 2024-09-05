@@ -1,5 +1,5 @@
 ---
 title: "Terra"
 url: /can-pastilla/terra/
-shop: frutería
+shop: Gemüse & Obst
 ---

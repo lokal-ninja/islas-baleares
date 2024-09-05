@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur"
 url: /santa-ponca/coiffeur/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vika"
 url: /alaior/vika/
-shop: electrónica
+shop: Elektronik
 ---

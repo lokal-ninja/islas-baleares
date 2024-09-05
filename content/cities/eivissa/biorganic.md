@@ -1,5 +1,5 @@
 ---
 title: "Biorganic"
 url: /eivissa/biorganic/
-shop: comodidad
+shop: Lebensmittel
 ---

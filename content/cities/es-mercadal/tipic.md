@@ -1,5 +1,5 @@
 ---
 title: "Tipic"
 url: /es-mercadal/tipic/
-shop: ropa
+shop: Kleidung
 ---

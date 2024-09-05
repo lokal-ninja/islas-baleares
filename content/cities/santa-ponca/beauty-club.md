@@ -1,5 +1,5 @@
 ---
 title: "Beauty Club"
 url: /santa-ponca/beauty-club/
-shop: cosméticos
+shop: Kosmetik
 ---

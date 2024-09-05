@@ -1,5 +1,5 @@
 ---
 title: "Veritas"
 url: /andratx/veritas/
-shop: supermercado
+shop: Supermarkt
 ---

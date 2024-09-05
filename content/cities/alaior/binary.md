@@ -1,5 +1,5 @@
 ---
 title: "Binary"
 url: /alaior/binary/
-shop: ordenador
+shop: Computer
 ---

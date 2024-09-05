@@ -1,5 +1,5 @@
 ---
 title: "Aprop"
 url: /campanet/aprop/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diana"
 url: /alaior/diana/
-shop: zapatos
+shop: Schuhe
 ---

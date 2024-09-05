@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /can-picafort/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

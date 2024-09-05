@@ -1,5 +1,5 @@
 ---
 title: "Serba"
 url: /alaior/serba/
-shop: juguetes
+shop: Spielzeug
 ---

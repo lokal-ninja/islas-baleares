@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Mallorca"
 url: /palma/lifestyle-mallorca/
-shop: muebles
+shop: Möbel
 ---

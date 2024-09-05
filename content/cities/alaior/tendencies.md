@@ -1,5 +1,5 @@
 ---
 title: "Tendències"
 url: /alaior/tendencies/
-shop: ropa
+shop: Kleidung
 ---

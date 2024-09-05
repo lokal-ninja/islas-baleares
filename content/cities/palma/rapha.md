@@ -1,5 +1,5 @@
 ---
 title: "Rapha"
 url: /palma/rapha/
-shop: deportes
+shop: Sport
 ---

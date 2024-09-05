@@ -1,5 +1,5 @@
 ---
 title: "Expo-Pell"
 url: /pollenca/expo-pell/
-shop: zapatos
+shop: Schuhe
 ---

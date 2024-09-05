@@ -1,5 +1,5 @@
 ---
 title: "Can Color"
 url: /felanitx/can-color/
-shop: pintura
+shop: Farben
 ---

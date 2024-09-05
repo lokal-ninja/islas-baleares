@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cala-agulla/spar/
-shop: supermercado
+shop: Supermarkt
 ---

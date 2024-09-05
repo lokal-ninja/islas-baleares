@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /palma/lidl-avinguda-de-mexic/
-shop: comodidad
+shop: Lebensmittel
 ---

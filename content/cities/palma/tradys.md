@@ -1,5 +1,5 @@
 ---
 title: "Trady's"
 url: /palma/tradys/
-shop: comodidad
+shop: Lebensmittel
 ---

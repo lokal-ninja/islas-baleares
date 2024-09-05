@@ -1,5 +1,5 @@
 ---
 title: "Motos TT performance"
 url: /llucmajor/motos-tt-performance/
-shop: motocicleta
+shop: Motorrad
 ---
