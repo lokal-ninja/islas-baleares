@@ -1,5 +1,5 @@
 ---
 title: "Hiob"
 url: /santa-ponca/hiob/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nano"
 url: /palma-de-mallorca/nano/
-shop: Fahrrad
+shop: bicicleta
 ---

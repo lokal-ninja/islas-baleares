@@ -1,5 +1,5 @@
 ---
 title: "Mio boutique"
 url: /santanyi-mallorca/mio-boutique/
-shop: Kleidung
+shop: ropa
 ---

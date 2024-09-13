@@ -1,5 +1,5 @@
 ---
 title: "Es Mercat"
 url: /santa-eularia-des-riu/es-mercat/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

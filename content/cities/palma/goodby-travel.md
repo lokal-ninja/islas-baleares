@@ -1,5 +1,5 @@
 ---
 title: "Goodby travel"
 url: /palma/goodby-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

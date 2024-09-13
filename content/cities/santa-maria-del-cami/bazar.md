@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
 url: /santa-maria-del-cami/bazar/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Es Didal"
 url: /alaior/es-didal/
-shop: Nähzubehör
+shop: coser
 ---

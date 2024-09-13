@@ -1,5 +1,5 @@
 ---
 title: "Can Nadal"
 url: /palma/can-nadal/
-shop: Fahrrad
+shop: bicicleta
 ---

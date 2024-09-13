@@ -1,5 +1,5 @@
 ---
 title: "Oriente"
 url: /santa-ponca/oriente/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iberostar Shop"
 url: /capdepera/iberostar-shop/
-shop: Lebensmittel
+shop: comodidad
 ---

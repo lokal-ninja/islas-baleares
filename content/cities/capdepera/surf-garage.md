@@ -1,5 +1,5 @@
 ---
 title: "Surf Garage"
 url: /capdepera/surf-garage/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rotger"
 url: /llucmajor/rotger/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

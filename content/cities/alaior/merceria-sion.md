@@ -1,5 +1,5 @@
 ---
 title: "Merceria Sion"
 url: /alaior/merceria-sion/
-shop: Nähzubehör
+shop: coser
 ---

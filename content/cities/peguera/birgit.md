@@ -1,5 +1,5 @@
 ---
 title: "Birgit"
 url: /peguera/birgit/
-shop: Supermarkt
+shop: supermercado
 ---

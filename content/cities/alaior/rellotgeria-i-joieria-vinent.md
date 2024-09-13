@@ -1,5 +1,5 @@
 ---
 title: "Rellotgeria i Joieria Vinent"
 url: /alaior/rellotgeria-i-joieria-vinent/
-shop: Schmuck
+shop: joyería
 ---

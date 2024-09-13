@@ -1,5 +1,5 @@
 ---
 title: "Halcón"
 url: /santa-ponca/halcon/
-shop: Reisebüro
+shop: agencia de viajes
 ---

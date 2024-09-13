@@ -1,5 +1,5 @@
 ---
 title: "Fishspa"
 url: /can-pastilla/fishspa/
-shop: Massage
+shop: masaje
 ---

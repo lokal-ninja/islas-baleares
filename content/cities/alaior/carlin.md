@@ -1,5 +1,5 @@
 ---
 title: "Carlin"
 url: /alaior/carlin/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La camiseta loca"
 url: /can-pastilla/la-camiseta-loca/
-shop: Textil
+shop: tela
 ---

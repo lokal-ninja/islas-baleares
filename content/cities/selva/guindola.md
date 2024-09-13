@@ -1,5 +1,5 @@
 ---
 title: "Guindola"
 url: /selva/guindola/
-shop: Garten-Center
+shop: centro de jardinería
 ---

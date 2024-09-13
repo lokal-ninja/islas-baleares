@@ -1,5 +1,5 @@
 ---
 title: "Vadeví"
 url: /pollenca/vadevi/
-shop: Wein
+shop: vino
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moto Rent Formentera"
 url: /la-savina/moto-rent-formentera/
-shop: Allgemein
+shop: general
 ---

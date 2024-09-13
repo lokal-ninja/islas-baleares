@@ -1,5 +1,5 @@
 ---
 title: "Margalida"
 url: /esporles/margalida/
-shop: Metzgerei
+shop: carnicero
 ---

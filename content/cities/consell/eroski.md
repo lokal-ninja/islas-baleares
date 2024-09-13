@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /consell/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

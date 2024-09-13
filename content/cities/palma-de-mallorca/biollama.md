@@ -1,5 +1,5 @@
 ---
 title: "Biollama"
 url: /palma-de-mallorca/biollama/
-shop: Kamine & Öfen
+shop: horno y estufa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schulz"
 url: /cala-ratjada/schulz/
-shop: Mieten
+shop: alquiler
 ---

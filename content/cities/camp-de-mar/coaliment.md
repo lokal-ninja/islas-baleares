@@ -1,5 +1,5 @@
 ---
 title: "Coaliment"
 url: /camp-de-mar/coaliment/
-shop: Supermarkt
+shop: supermercado
 ---

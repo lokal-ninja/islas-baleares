@@ -1,5 +1,5 @@
 ---
 title: "Palliser"
 url: /alaior/palliser/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

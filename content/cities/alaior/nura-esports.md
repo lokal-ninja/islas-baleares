@@ -1,5 +1,5 @@
 ---
 title: "Nura Esports"
 url: /alaior/nura-esports/
-shop: Sport
+shop: deportes
 ---

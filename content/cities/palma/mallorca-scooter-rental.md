@@ -1,5 +1,5 @@
 ---
 title: "Mallorca Scooter Rental"
 url: /palma/mallorca-scooter-rental/
-shop: Motorrad
+shop: motocicleta
 ---

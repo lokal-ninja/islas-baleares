@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /sant-lluis/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

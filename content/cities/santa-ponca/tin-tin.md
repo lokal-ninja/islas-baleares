@@ -1,5 +1,5 @@
 ---
 title: "Tin Tin"
 url: /santa-ponca/tin-tin/
-shop: Kosmetik
+shop: cosméticos
 ---

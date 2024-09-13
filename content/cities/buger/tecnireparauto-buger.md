@@ -1,5 +1,5 @@
 ---
 title: "Tecnireparauto Búger"
 url: /buger/tecnireparauto-buger/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

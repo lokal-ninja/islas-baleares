@@ -1,5 +1,5 @@
 ---
 title: "binipreu"
 url: /alaior/binipreu/
-shop: Supermarkt
+shop: supermercado
 ---

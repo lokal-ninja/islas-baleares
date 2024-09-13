@@ -1,5 +1,5 @@
 ---
 title: "Forn Can Rabassó"
 url: /pollenca/forn-can-rabasso/
-shop: Bäckerei
+shop: panadería
 ---

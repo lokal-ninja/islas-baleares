@@ -1,5 +1,5 @@
 ---
 title: "Carpe Diem Lifestyle"
 url: /santanyi/carpe-diem-lifestyle/
-shop: Kleidung
+shop: ropa
 ---

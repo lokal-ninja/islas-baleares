@@ -1,5 +1,5 @@
 ---
 title: "Granel"
 url: /ciutadella/granel/
-shop: Bioladen
+shop: alimentación sana
 ---

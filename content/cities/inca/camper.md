@@ -1,5 +1,5 @@
 ---
 title: "Camper"
 url: /inca/camper/
-shop: Schuhe
+shop: zapatos
 ---

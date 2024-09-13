@@ -1,5 +1,5 @@
 ---
 title: "Tràmit"
 url: /palma/tramit/
-shop: Kleidung
+shop: ropa
 ---

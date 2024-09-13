@@ -1,5 +1,5 @@
 ---
 title: "Suma Supermercados"
 url: /eivissa/suma-supermercados/
-shop: Lebensmittel
+shop: comodidad
 ---

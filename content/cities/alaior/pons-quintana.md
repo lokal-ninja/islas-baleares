@@ -1,5 +1,5 @@
 ---
 title: "Pons Quintana"
 url: /alaior/pons-quintana/
-shop: Schuhe
+shop: zapatos
 ---

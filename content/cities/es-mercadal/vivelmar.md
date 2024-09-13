@@ -1,5 +1,5 @@
 ---
 title: "Vivelmar"
 url: /es-mercadal/vivelmar/
-shop: Sport
+shop: deportes
 ---

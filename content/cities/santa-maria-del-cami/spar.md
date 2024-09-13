@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /santa-maria-del-cami/spar/
-shop: Supermarkt
+shop: supermercado
 ---

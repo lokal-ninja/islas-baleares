@@ -1,5 +1,5 @@
 ---
 title: "Click Mallorca"
 url: /alcudia/click-mallorca/
-shop: Reisebüro
+shop: agencia de viajes
 ---

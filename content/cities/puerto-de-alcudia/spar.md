@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /puerto-de-alcudia/spar/
-shop: Supermarkt
+shop: supermercado
 ---

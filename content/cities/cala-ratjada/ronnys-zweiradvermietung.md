@@ -1,5 +1,5 @@
 ---
 title: "Ronnys Zweiradvermietung"
 url: /cala-ratjada/ronnys-zweiradvermietung/
-shop: Mieten
+shop: alquiler
 ---

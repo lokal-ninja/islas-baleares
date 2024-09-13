@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /santa-ponca/orange/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peixateria"
 url: /santa-maria-del-cami/peixateria/
-shop: Fisch
+shop: marisco
 ---

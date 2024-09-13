@@ -1,5 +1,5 @@
 ---
 title: "Animo"
 url: /santanyi/animo/
-shop: Schmuck
+shop: joyería
 ---

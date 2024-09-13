@@ -1,5 +1,5 @@
 ---
 title: "Ca,n Alemany"
 url: /consell/ca-n-alemany/
-shop: Bäckerei
+shop: panadería
 ---

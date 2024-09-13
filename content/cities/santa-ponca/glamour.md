@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
 url: /santa-ponca/glamour/
-shop: Andenken
+shop: regalo
 ---

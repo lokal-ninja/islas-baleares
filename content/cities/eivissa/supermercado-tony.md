@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Tony"
 url: /eivissa/supermercado-tony/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sastre Perruquers"
 url: /santa-maria-del-cami/sastre-perruquers/
-shop: Friseur
+shop: peluquería
 ---

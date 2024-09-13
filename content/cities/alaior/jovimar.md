@@ -1,5 +1,5 @@
 ---
 title: "Jovimar"
 url: /alaior/jovimar/
-shop: Kramladen
+shop: tienda de variedades
 ---

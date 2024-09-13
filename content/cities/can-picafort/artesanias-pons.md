@@ -1,5 +1,5 @@
 ---
 title: "Artesanías Pons"
 url: /can-picafort/artesanias-pons/
-shop: Basteln
+shop: artesanía
 ---

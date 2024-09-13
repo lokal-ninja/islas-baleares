@@ -1,5 +1,5 @@
 ---
 title: "XIP Informatic"
 url: /manacor/xip-informatic/
-shop: Handy
+shop: teléfono móvil
 ---

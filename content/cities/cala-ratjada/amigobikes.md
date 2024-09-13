@@ -1,5 +1,5 @@
 ---
 title: "Amigobikes"
 url: /cala-ratjada/amigobikes/
-shop: Mieten
+shop: alquiler
 ---

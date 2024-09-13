@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /santa-ponca/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

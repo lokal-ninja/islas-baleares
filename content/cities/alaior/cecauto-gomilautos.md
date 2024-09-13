@@ -1,5 +1,5 @@
 ---
 title: "Cecauto Gomilautos"
 url: /alaior/cecauto-gomilautos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

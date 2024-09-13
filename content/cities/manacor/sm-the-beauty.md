@@ -1,5 +1,5 @@
 ---
 title: "SM The Beauty"
 url: /manacor/sm-the-beauty/
-shop: Kosmetik
+shop: cosméticos
 ---

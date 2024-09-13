@@ -1,5 +1,5 @@
 ---
 title: "Mobles Martorell"
 url: /santa-maria-del-cami/mobles-martorell/
-shop: Möbel
+shop: muebles
 ---

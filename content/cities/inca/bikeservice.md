@@ -1,5 +1,5 @@
 ---
 title: "Bikeservice"
 url: /inca/bikeservice/
-shop: Fahrrad
+shop: bicicleta
 ---

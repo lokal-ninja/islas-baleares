@@ -1,5 +1,5 @@
 ---
 title: "Pri Nas"
 url: /santa-ponca/pri-nas/
-shop: Supermarkt
+shop: supermercado
 ---

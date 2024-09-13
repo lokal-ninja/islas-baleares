@@ -1,5 +1,5 @@
 ---
 title: "Coll Motors"
 url: /selva/coll-motors/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

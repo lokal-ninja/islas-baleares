@@ -1,5 +1,5 @@
 ---
 title: "Bip Bip"
 url: /campanet/bip-bip/
-shop: Supermarkt
+shop: supermercado
 ---

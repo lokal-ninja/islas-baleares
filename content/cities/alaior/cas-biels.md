@@ -1,5 +1,5 @@
 ---
 title: "Ca's Biels"
 url: /alaior/cas-biels/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

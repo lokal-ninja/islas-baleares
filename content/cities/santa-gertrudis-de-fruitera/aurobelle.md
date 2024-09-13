@@ -1,5 +1,5 @@
 ---
 title: "Aurobelle"
 url: /santa-gertrudis-de-fruitera/aurobelle/
-shop: Kleidung
+shop: ropa
 ---

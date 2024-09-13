@@ -1,5 +1,5 @@
 ---
 title: "Miramà"
 url: /santanyi/mirama/
-shop: Andenken
+shop: regalo
 ---

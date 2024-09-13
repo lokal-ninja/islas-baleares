@@ -1,5 +1,5 @@
 ---
 title: "Brots"
 url: /alcudia/brots/
-shop: Schuhe
+shop: zapatos
 ---

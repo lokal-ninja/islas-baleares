@@ -1,5 +1,5 @@
 ---
 title: "Suma"
 url: /soller/suma/
-shop: Supermarkt
+shop: supermercado
 ---

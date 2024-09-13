@@ -1,5 +1,5 @@
 ---
 title: "Can Vadell"
 url: /campos/can-vadell/
-shop: Bäckerei
+shop: panadería
 ---

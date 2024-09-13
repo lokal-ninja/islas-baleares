@@ -1,5 +1,5 @@
 ---
 title: "Pranathy"
 url: /santa-eulalia-del-rio/pranathy/
-shop: Kräuter
+shop: herbolario
 ---

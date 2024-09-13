@@ -1,5 +1,5 @@
 ---
 title: "Merche"
 url: /can-pastilla/merche/
-shop: Andenken
+shop: regalo
 ---

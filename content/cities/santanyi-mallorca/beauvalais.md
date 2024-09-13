@@ -1,5 +1,5 @@
 ---
 title: "Beauvalais"
 url: /santanyi-mallorca/beauvalais/
-shop: Kleidung
+shop: ropa
 ---
