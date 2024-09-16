@@ -4,8 +4,8 @@ latitude: 39.65023
 longitude: 2.77068
 postcode: "07320"
 city: Santa Maria del Camí
-street: "carrer Costa i Llobera"
-housenumber: 1
+street: carrer Costa i Llobera
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 08:30-21:45"
-website: "https://www.bipbipportalcudia.com/nosotros-santa-maria/"
+opening_hours: Mo-Su 08:30-21:45
+website: https://www.bipbipportalcudia.com/nosotros-santa-maria/

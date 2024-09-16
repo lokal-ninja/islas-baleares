@@ -1,11 +1,11 @@
 id: 54518213
-type: way
+type: node
 latitude: 39.59435
 longitude: 2.64373
 postcode: "07010"
 city: Palma
-street: "Carrer del General Riera"
-housenumber: 152
-phone: "+34 914 90 89 00"
+street: Carrer del General Riera
+housenumber: "152"
+phone: +34 914 90 89 00
 opening_hours: ""
 website: ""

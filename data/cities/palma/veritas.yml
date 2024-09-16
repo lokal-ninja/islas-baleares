@@ -4,8 +4,8 @@ latitude: 39.57126
 longitude: 2.63739
 postcode: ""
 city: Palma
-street: "Carrer de Dameto"
-housenumber: 6
-phone: "+34 971 863511"
-opening_hours: "Mo-Sa 09:15-21:15"
-website: "https://www.veritas.es/"
+street: Carrer de Dameto
+housenumber: "6"
+phone: +34 971 863511
+opening_hours: Mo-Sa 09:15-21:15
+website: https://www.veritas.es/

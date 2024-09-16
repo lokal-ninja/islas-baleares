@@ -1,11 +1,11 @@
 id: 89068139
-type: way
+type: node
 latitude: 39.57224
 longitude: 2.64405
 postcode: "07012"
 city: Palma
-street: "Avinguda de Jaume III"
-housenumber: 15
-phone: "+34 971 77 01 77"
-opening_hours: "Mo-Sa 09:30-21:30; Su 11:00-20:30"
+street: Avinguda de Jaume III
+housenumber: "15"
+phone: +34 971 77 01 77
+opening_hours: Mo-Sa 09:30-21:30; Su 11:00-20:30
 website: ""

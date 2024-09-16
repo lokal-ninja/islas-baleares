@@ -1,11 +1,11 @@
 id: 81151786
-type: way
+type: node
 latitude: 39.71419
 longitude: 2.9126
 postcode: "07300"
 city: Inca
-street: "carrer del Quarter"
-housenumber: 91
+street: carrer del Quarter
+housenumber: "91"
 phone: "+34971888233"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.camper.com/es_ES"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.camper.com/es_ES

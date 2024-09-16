@@ -1,11 +1,11 @@
 id: 1190777400
-type: way
+type: node
 latitude: 39.33884
 longitude: 3.05069
 postcode: "07640"
 city: Ses Salines
-street: "Plaça Espanya"
-housenumber: 2
-phone: "+34 971 642909"
-opening_hours: "Mo-Su 08:00-13:00; Mo, Tu, Th, Fr 16:30-19:00"
+street: Plaça Espanya
+housenumber: "2"
+phone: +34 971 642909
+opening_hours: Mo-Su 08:00-13:00; Mo, Tu, Th, Fr 16:30-19:00
 website: ""

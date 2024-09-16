@@ -4,8 +4,8 @@ latitude: 39.57848
 longitude: 2.66075
 postcode: "07005"
 city: palma de Mallorca
-street: "Carrer del Marquès de la Fontsanta"
-housenumber: 76
-phone: "+34 871 514 185"
-opening_hours: "10:30-13:00,16:30-20:00"
-website: "http://www.Ludicon.es"
+street: Carrer del Marquès de la Fontsanta
+housenumber: "76"
+phone: +34 871 514 185
+opening_hours: 10:30-13:00,16:30-20:00
+website: http://www.Ludicon.es

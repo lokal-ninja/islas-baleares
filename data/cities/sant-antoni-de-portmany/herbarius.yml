@@ -4,8 +4,8 @@ latitude: 38.98253
 longitude: 1.30365
 postcode: "07820"
 city: Sant Antoni de Portmany
-street: "Carrer de la Soletat"
-housenumber: 10
-phone: "+34 625 93 33 39;+34 678 82 48 11;+34 871 70 01 75"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00; Su off"
+street: Carrer de la Soletat
+housenumber: "10"
+phone: +34 625 93 33 39;+34 678 82 48 11;+34 871 70 01 75
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00; Su off
 website: ""

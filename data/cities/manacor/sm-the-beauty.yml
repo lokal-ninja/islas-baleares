@@ -4,8 +4,8 @@ latitude: 39.57045
 longitude: 3.21097
 postcode: "07500"
 city: Manacor
-street: "Carrer de l'Amargura"
-housenumber: 9
+street: Carrer de l'Amargura
+housenumber: "9"
 phone: "+34971552513"
-opening_hours: "Mo-Fr 10:00-13:30,16:00-20:00; Sa 10:00-14:00"
-website: "https://smthebeauty.com/"
+opening_hours: Mo-Fr 10:00-13:30,16:00-20:00; Sa 10:00-14:00
+website: https://smthebeauty.com/

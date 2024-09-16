@@ -4,8 +4,8 @@ latitude: 39.57511
 longitude: 2.6593
 postcode: "07006"
 city: Palma de Mallorca
-street: "Carrer d'Aragó"
-housenumber: 26
-phone: "+34 971 77 10 70"
+street: Carrer d'Aragó
+housenumber: "26"
+phone: +34 971 77 10 70
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

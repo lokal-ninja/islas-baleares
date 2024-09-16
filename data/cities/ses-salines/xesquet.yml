@@ -1,11 +1,11 @@
 id: 396767990
-type: way
+type: node
 latitude: 39.33919
 longitude: 3.05594
 postcode: "07640"
 city: Ses Salines
-street: "Carrer Sitjar"
-housenumber: 6
-phone: "+34 971 64 97 48"
-opening_hours: "06:30-14:00"
+street: Carrer Sitjar
+housenumber: "6"
+phone: +34 971 64 97 48
+opening_hours: 06:30-14:00
 website: ""

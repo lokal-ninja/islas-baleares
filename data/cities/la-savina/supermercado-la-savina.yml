@@ -4,8 +4,8 @@ latitude: 38.73075
 longitude: 1.41745
 postcode: ""
 city: La Savina
-street: "Avda. Mediterránea"
-housenumber: 31
-phone: "+34 971 322 191"
-opening_hours: "Jun-Sep: 08:00-21:00; Oct-May: Mo-Sa 08:00-21:00; Oct-May: Su 08:00-12:00"
-website: "http://forpreu.com/en/nos.html"
+street: Avda. Mediterránea
+housenumber: "31"
+phone: +34 971 322 191
+opening_hours: 'Jun-Sep: 08:00-21:00; Oct-May: Mo-Sa 08:00-21:00; Oct-May: Su 08:00-12:00'
+website: http://forpreu.com/en/nos.html

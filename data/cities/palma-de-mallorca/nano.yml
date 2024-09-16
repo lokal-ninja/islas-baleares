@@ -4,8 +4,8 @@ latitude: 39.56835
 longitude: 2.64563
 postcode: ""
 city: Palma de Mallorca
-street: "Carrer de la Mar"
-housenumber: 10
-phone: "+34 971 66 73 60"
-opening_hours: "Mo-Su 10:00-14:00,17:00-19:00"
-website: "https://nanobicycles.com/"
+street: Carrer de la Mar
+housenumber: "10"
+phone: +34 971 66 73 60
+opening_hours: Mo-Su 10:00-14:00,17:00-19:00
+website: https://nanobicycles.com/

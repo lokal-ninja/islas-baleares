@@ -1,11 +1,11 @@
 id: 948463015
-type: way
+type: node
 latitude: 38.91239
 longitude: 1.22408
 postcode: "07830"
 city: Sant Josep de sa Talaia
-street: "Carrer Pollenca"
-housenumber: 8
+street: Carrer Pollenca
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

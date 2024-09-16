@@ -4,8 +4,8 @@ latitude: 39.58401
 longitude: 2.65045
 postcode: "07010"
 city: Palma de Mallorca
-street: "Carrer de Francesc Fiol i Juan"
-housenumber: 11
-phone: "+34 971 77 31 31"
-opening_hours: "Mo-Fr 10:30-13:30,17:00-20:00; Sa 10:30-13:30"
-website: "https://www.themovilshop.es/"
+street: Carrer de Francesc Fiol i Juan
+housenumber: "11"
+phone: +34 971 77 31 31
+opening_hours: Mo-Fr 10:30-13:30,17:00-20:00; Sa 10:30-13:30
+website: https://www.themovilshop.es/

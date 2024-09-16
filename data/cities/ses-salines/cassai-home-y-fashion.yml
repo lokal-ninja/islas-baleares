@@ -1,11 +1,11 @@
 id: 1191849825
-type: way
+type: node
 latitude: 39.33925
 longitude: 3.05602
 postcode: "07640"
 city: Ses Salines
-street: "Carrer Sitjar"
-housenumber: 10
-phone: "+34 687 57 04 50"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://cassaifashion.com"
+street: Carrer Sitjar
+housenumber: "10"
+phone: +34 687 57 04 50
+opening_hours: Mo-Su 10:00-20:00
+website: https://cassaifashion.com

@@ -4,8 +4,8 @@ latitude: 39.5439
 longitude: 2.59499
 postcode: "07181"
 city: Ses Illetes
-street: "Passeig d'Illetes"
-housenumber: 4
+street: Passeig d'Illetes
+housenumber: "4"
 phone: "+34971405527"
-opening_hours: "09:00-13:30,15:30-19:00"
-website: "https://www.libertysport.es/"
+opening_hours: 09:00-13:30,15:30-19:00
+website: https://www.libertysport.es/

@@ -1,11 +1,11 @@
 id: 454925011
-type: way
+type: node
 latitude: 39.51044
 longitude: 2.48664
 postcode: "07180"
 city: Santa Ponça
-street: "avinguda del Golf"
-housenumber: 16
+street: avinguda del Golf
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-14:00
 website: ""

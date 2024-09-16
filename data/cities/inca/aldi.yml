@@ -1,11 +1,11 @@
 id: 347093693
-type: way
+type: node
 latitude: 39.71153
 longitude: 2.90752
 postcode: "07300"
 city: Inca
-street: "carrer Teixidors"
-housenumber: 2
+street: carrer Teixidors
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:30"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:30
 website: ""

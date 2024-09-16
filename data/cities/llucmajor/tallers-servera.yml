@@ -1,11 +1,11 @@
 id: 413055871
-type: way
+type: node
 latitude: 39.49444
 longitude: 2.8866
 postcode: "07620"
 city: Llucmajor
-street: "Ronda de Ponent"
-housenumber: 9
+street: Ronda de Ponent
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

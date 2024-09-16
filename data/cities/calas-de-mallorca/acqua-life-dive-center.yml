@@ -1,11 +1,11 @@
 id: 477675477
-type: way
+type: node
 latitude: 39.46086
 longitude: 3.27933
 postcode: "07689"
 city: Calas de Mallorca
-street: "Carrer Formentor"
-housenumber: 175
+street: Carrer Formentor
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

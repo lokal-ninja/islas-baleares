@@ -1,11 +1,11 @@
 id: 398653613
-type: way
+type: node
 latitude: 39.71199
 longitude: 2.91121
 postcode: "07300"
 city: Inca
-street: "Carrer dels Pagesos"
-housenumber: 21
-phone: "+34971 599060"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.jysk.es/"
+street: Carrer dels Pagesos
+housenumber: "21"
+phone: +34971 599060
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.jysk.es/

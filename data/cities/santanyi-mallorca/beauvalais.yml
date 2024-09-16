@@ -4,8 +4,8 @@ latitude: 39.35472
 longitude: 3.12801
 postcode: "07650"
 city: Santanyí, Mallorca
-street: "carrer del Centre"
-housenumber: 12
+street: carrer del Centre
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-14:00
 website: ""

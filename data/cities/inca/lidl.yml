@@ -1,11 +1,11 @@
 id: 295624580
-type: way
+type: node
 latitude: 39.71177
 longitude: 2.91043
 postcode: "07300"
 city: Inca
-street: "Carrer dels Pagesos"
-housenumber: 28
+street: Carrer dels Pagesos
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-15:00"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-15:00
 website: ""

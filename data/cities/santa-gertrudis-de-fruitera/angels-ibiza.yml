@@ -1,11 +1,11 @@
 id: 1252961552
-type: way
+type: node
 latitude: 38.99887
 longitude: 1.42883
 postcode: "07814"
 city: Santa Gertrudis de Fruitera
-street: "Carrer Vénda de Parada"
-housenumber: 8
-phone: "+34 971197020"
+street: Carrer Vénda de Parada
+housenumber: "8"
+phone: +34 971197020
 opening_hours: ""
 website: ""

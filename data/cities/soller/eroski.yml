@@ -1,11 +1,11 @@
 id: 101007048
-type: way
+type: node
 latitude: 39.76897
 longitude: 2.70967
 postcode: "07100"
 city: Sóller
-street: "carrer de la Prosperitat"
-housenumber: 
+street: carrer de la Prosperitat
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""
