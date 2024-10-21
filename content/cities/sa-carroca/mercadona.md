@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /sant-josep-de-sa-talaia/mercadona/
+url: /sa-carroca/mercadona/
 shop: supermercado
 ---
