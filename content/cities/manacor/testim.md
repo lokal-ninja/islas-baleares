@@ -1,5 +1,5 @@
 ---
 title: "T'estim"
 url: /manacor/testim/
-shop: general
+shop: herbolario
 ---
