@@ -2,5 +2,5 @@
 title: Alcúdia
 url: /alcudia/
 latitude: 39.853
-longitude: 3.119
+longitude: 3.123
 ---
