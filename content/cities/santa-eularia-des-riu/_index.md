@@ -1,6 +1,6 @@
 ---
 title: Santa Eulària des Riu
 url: /santa-eularia-des-riu/
-latitude: 38.985
-longitude: 1.537
+latitude: 38.989
+longitude: 1.544
 ---
