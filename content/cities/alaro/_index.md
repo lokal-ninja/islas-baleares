@@ -1,6 +1,6 @@
 ---
 title: Alaró
 url: /alaro/
-latitude: 39.706
-longitude: 2.789
+latitude: 39.704
+longitude: 2.792
 ---
