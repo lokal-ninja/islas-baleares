@@ -1,6 +1,6 @@
 ---
 title: Ciutadella
 url: /ciutadella/
-latitude: 40
-longitude: 3.84
+latitude: 40.001
+longitude: 3.839
 ---
