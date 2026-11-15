@@ -1,6 +1,6 @@
 ---
-title: Soller
+title: Sóller
 url: /soller/
-latitude: 39.766
-longitude: 2.717
+latitude: 39.764
+longitude: 2.713
 ---
