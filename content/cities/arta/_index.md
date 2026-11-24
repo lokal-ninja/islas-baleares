@@ -1,6 +1,6 @@
 ---
 title: Artà
 url: /arta/
-latitude: 39.693
-longitude: 3.344
+latitude: 39.691
+longitude: 3.354
 ---
